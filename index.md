@@ -2,6 +2,7 @@
 [Home](index) |
 [Week1](w01) |
 [LOG](TXT/mylog.txt) |
-[GitHub](https://github.com/IlmaMannix/os211)
+[GitHub](https://github.com/IlmaMannix/os211) |
+[RANK](TXT/myrank.txt)
 
 HI, Welcome to my GitHub Pages ^_^
