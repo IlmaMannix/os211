@@ -23,11 +23,14 @@ ZCZC W01 60 L23 Discord: Discuss with friends about OS assignment
 ZCZC W01 60 L05 GSGS related
 ZCZC W02 62 L02 ZOOM related
 ZCZC W02 30 L01 Scele Pop Quiz
+ZCZC W02 60 L11 Read OSC10 Ch 16
+ZCZC W02 60 L11 Read OSC10 Ch 17
 ZCZC W02 75 L12 Assignment #2
 ZCZC W02 15 L13 Assignment #3
 ZCZC W02 5 L14 Assignment #4
 ZCZC W02 5 L15 Assignment #5
 ZCZC W02 40 L16 Assignment #6
+ZCZC W01 240 L17 Assignment #7
 ZCZC W02 10 L18 Assignment #8
 ZCZC W02 5 L19 Assignment #9
 ZCZC W02 5 L20 Assignment #10
