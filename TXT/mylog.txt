@@ -34,3 +34,9 @@ ZCZC W01 240 L17 Assignment #7
 ZCZC W02 10 L18 Assignment #8
 ZCZC W02 5 L19 Assignment #9
 ZCZC W02 5 L20 Assignment #10
+ZCZC W03 20 L12 Try Demos Week 02 Permissions; C-language already in week2
+ZCZC W03 20 L12 Try Demos Week 03
+ZCZC W03 30 L12 Try Demos FUSE Demo
+ZCZC W03 5 L13 Check .bash_aliases
+ZCZC W03 30 L14 Review Week 02 TOP 10 List
+ZCZC W03 30 L17 fuse 
