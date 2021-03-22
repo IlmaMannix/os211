@@ -30,13 +30,18 @@ ZCZC W02 15 L13 Assignment #3
 ZCZC W02 5 L14 Assignment #4
 ZCZC W02 5 L15 Assignment #5
 ZCZC W02 40 L16 Assignment #6
-ZCZC W01 240 L17 Assignment #7
+ZCZC W02 240 L17 Assignment #7
 ZCZC W02 10 L18 Assignment #8
 ZCZC W02 5 L19 Assignment #9
 ZCZC W02 5 L20 Assignment #10
+ZCZC W03 30 L01 SCELE Pop Quiz
+ZCZC W03 90 L02 ZOOM sync class
 ZCZC W03 20 L12 Try Demos Week 02 Permissions; C-language already in week2
 ZCZC W03 20 L12 Try Demos Week 03
 ZCZC W03 30 L12 Try Demos FUSE Demo
 ZCZC W03 5 L13 Check .bash_aliases
 ZCZC W03 30 L14 Review Week 02 TOP 10 List
-ZCZC W03 30 L17 fuse 
+ZCZC W03 240 L15 Create TOP10 List
+ZCZC W03 10 L16 Update Log
+ZCZC W03 30 L17 fuse
+ZCZC W03 15 L18 Update bash script
