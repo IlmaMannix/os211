@@ -47,3 +47,12 @@ ZCZC W03 10 L16 Update Log
 ZCZC W03 30 L17 fuse
 ZCZC W03 15 L18 Update bash script
 ZCZC W03 15 L19 sign
+ZCZC W04 81 L02 ZOOM sync class
+ZCZC W04 30 L11 Read OS Ch9
+ZCZC W04 30 L12 Try Demos Week04
+ZCZC W04 15 L13 Pick 3 Top 10
+ZCZC W04 60 L14 Create Top 10 List
+ZCZC W04 15 L15 Update Log
+ZCZC W04 30 L16 Tarballed WEEK04
+ZCZC W04 5 L17 Update bash script rev5
+ZCZC W04 10 L18 sign
