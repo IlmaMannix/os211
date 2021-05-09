@@ -7,6 +7,7 @@
 [Week5](W05) |
 [Week6](W06) |
 [Week7](W07) |
+[Week8](W08) |
 [KEY](TXT/mypubkey.txt) |
 [LOG](TXT/mylog.txt) |
 [GitHub](https://github.com/IlmaMannix/os211) |
